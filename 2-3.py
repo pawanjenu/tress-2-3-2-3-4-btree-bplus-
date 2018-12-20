@@ -168,7 +168,7 @@ class Tree:
                 print
                 thislevel = nextlevel
 
-        graph.write_png('exam.png')
+        graph.write_png('2-3.png')
         
 
 tree = Tree()
